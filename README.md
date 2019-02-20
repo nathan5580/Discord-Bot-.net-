@@ -10,3 +10,6 @@ Like this :
   </appSettings>
 </configuration>
 ```
+
+For me not you -->
+https://discord.foxbot.me/docs/guides/commands/commands.html
