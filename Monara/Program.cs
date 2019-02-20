@@ -11,6 +11,10 @@ namespace Monara
         public static void Main(string[] args)
             => new Program().MainAsync().GetAwaiter().GetResult();
 
+        /// <summary>
+        /// Mains the asynchronous.
+        /// </summary>
+        /// <returns></returns>
         public async Task MainAsync()
         {
             var client = new DiscordSocketClient();
