@@ -1,6 +1,5 @@
 # Discord-Bot-.net-
 > **ProTip:** In order to make this work, you need to create App.config file
-In order to make this work, you need to create App.config file
 Like this :
 
 ```xml
